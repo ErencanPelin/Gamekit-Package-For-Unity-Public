@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Transition_CircleGrow_AnimControl
+  m_Controller: {fileID: 9100000, guid: 993f715c371d7054c977fa34262f0921, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 3dac6a8e7e238344699be5329323391c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: eb36f24a3ecd3e849a912ce050e2254f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 018dc5aa49de1354785ce54021c3a660, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ca7f194cf4c41f1458608549e0e9814f, type: 2}

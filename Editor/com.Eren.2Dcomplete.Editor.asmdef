@@ -1,0 +1,20 @@
+{
+    "name": "com.Eren.2Dcomplete.Editor",
+    "rootNamespace": "Gamekit2D.Editor",
+    "references": [
+        "GUID:cdf832cae37a55f4785d2ae691f59f56",
+        "GUID:e73d42b6534f1de4a940c775f1ea8e9f",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

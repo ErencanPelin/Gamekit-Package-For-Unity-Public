@@ -1,0 +1,42 @@
+{
+  "name": "com.eren.2dcomplete",
+  "version": "1.2.1",
+  "displayName": "2D Complete Gamekit",
+  "description": "Eren's custom 2D gamekit for creating platformer & topdown games with ease. It contains tonnes of custom editors and components to streamline your game development, as well as ready-made templates & prefabs. Everything is fully customisable to create your unique dream 2D game quickly and easily.",
+  "unity": "2021.3",
+  "unityRelease": "6f1",
+  "changelogUrl": "https://erensoftworks.wordpress.com/changelog/",
+  "documentationUrl": "https://erensoftworks.wordpress.com/documentation/",
+  "licensesUrl": "https://erensoftworks.wordpress.com/erens-complete-2d-gamekit/",
+  "dependencies": {
+    "com.unity.2d.tilemap.extras": "2.2.3",
+    "com.unity.2d.pixel-perfect": "5.0.1",
+    "com.unity.2d.tilemap": "1.0.0",
+    "com.unity.2d.sprite": "1.0.0",
+    "com.unity.inputsystem": "1.3.0",
+    "com.unity.textmeshpro": "3.0.6",
+    "com.unity.nuget.newtonsoft-json": "3.0.2"
+  },
+  "keywords": [
+    "2d",
+    "tools",
+    "template projects"
+  ],
+  "author": {
+    "name": "Eren Softworks",
+    "email": "erenp.business@gmail.com",
+    "url": "https://erensoftworks.wordpress.com/"
+  },
+  "samples": [
+    {
+      "displayName": "Platformer Sample",
+      "description": "Contains a sample platformer game with player, enemy and other elements",
+      "path": "Samples~/SamplePlatformer"
+    },
+    {
+      "displayName": "Topdown Sample",
+      "description": "Contains a sample topdown game with player and other elements",
+      "path": "Samples~/SampleTopDown"
+    }
+  ]
+}
