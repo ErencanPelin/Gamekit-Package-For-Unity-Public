@@ -1,0 +1,9 @@
+<linker>
+    <!--Preserve types and members in an assembly-->
+    <assembly fullname="Newtonsoft.Json">
+        <type fullname="Newtonsoft.Json.JsonConvert" preserve="all"/>
+    </assembly>
+    <assembly fullname="System">
+        <type fullname="System.Net.WebHeaderCollection" preserve="all"/>
+    </assembly> 
+</linker>
